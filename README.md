@@ -45,3 +45,5 @@ Es un proyecto final de la materia Taller de Proyecto II de la carrera Ingenier√
   - Sentadillas - https://youtu.be/mAUdlgjsIGg
   - Caminar mirado de frente - https://youtu.be/BwzAMgDGRUY
   - Caminar mirado de costado - https://youtu.be/Ja7Aef8Ef1E
+  
+  ### Para mas informaci√≥n leer el Informe del Proyecto
