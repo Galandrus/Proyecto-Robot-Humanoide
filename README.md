@@ -6,7 +6,9 @@ Es un proyecto final de la materia Taller de Proyecto II de la carrera Ingenier�
 - Abba, Pedro Nicolás
 - Ares, Charo
 - Galán, Martín Andrés
-  
+
+### **Fecha**
+5/12/19
 
 ### **1.- Introducción**
 
